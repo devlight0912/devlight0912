@@ -20,7 +20,6 @@
         <th>Tailwind</th>
         <th>JavaScript</th>
         <th>ReactJS</th>
-        <th>React Native</th>
         <th>Firebase</th>
         <th>Canva</th>
       </tr>
