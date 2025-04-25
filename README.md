@@ -88,40 +88,6 @@
         <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask Sibi Siddharth S" width="55" height="55"/></td>
       </tr>
     </table>
-
-## 😯 How Do I Contribute ?
-
-### iZet E-Payments - Software Developer (intern) (Feb 2025 - Present)
-- Building Ecommerce chatbot.
-- Contributing in Web Development Projects.
-
-### RaC CBE Royals - Club Service Director (June 2024 - Present)
-- Managing Club Service Projects.
-- Documentation of Club Service Projects and Records.
-
-### RaCKathirce - International Service Director & Social Media Management (Jan 2024 - June 2024)
-- Managing International Service Projects.
-- Maintaining timely updates of linkedin handle.
-- Designing Posters using Canva.
-- Documentation of the events, linkedin posts and event posters.
-
-### SquadofCreators - Full-Stack Developer (Sept 2021 - Present)
-- Actively engaged in Web, Python, and AI/ML projects.
-
-## 🤝 Collaboration
-
-💡Seeking partners for magical projects in AI, ML, DL, and web development? Let's craft something extraordinary together and unleash innovation's power in our digital quests!
-
-## How to Reach Me
-
-📫 Drop me a line at sibisiddharth8@gmail.com.
-
-🔮 Let's connect on [LinkedIn](https://www.linkedin.com/in/sibisiddharths/).
-
-🪄 Do Check [MyMind | Portfolio](https://sibisiddharth8.github.io/portfolio-react/).
-
-Let's spark innovation together! 🧙‍♂️✨
-
 ---
 
 <table>
