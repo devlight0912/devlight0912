@@ -4,71 +4,141 @@
   </a>
 </h1>
 
-<h3 align="center">Languages and Tools:</h3>
+## 🫣 Who Am I ?
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=astro" height="40" alt="astro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lit" height="40" alt="lit logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pug" height="40" alt="pug logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=styledcomponents" height="40" alt="styledcomponents logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/000000" height="40" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/codepen/000000" height="40" alt="codepen logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="40" alt="markdown logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="40" alt="woocommerce logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-</div>
+🚀 Full-Stack & AI/ML Developer at Team SquadofCreators, fueled by passion for tech. With strong problem-solving skills and innovation drive, I seek new horizons to conquer through collaboration.
 
+## 💼 Wanna Know My Professional Skills ? Let's Dive into it.
+
+  - **⚡Dazzling Designs:** Armed with HTML, CSS, JavaScript, and React, I orchestrate visually captivating and responsive Full stack designs that enchant and engage users.
+
+    <table style="width: 100%; table-layout: fixed;">
+      <tr align="center">
+        <th>HTML</th>
+        <th>CSS3</th>
+        <th>Bootstrap</th>
+        <th>Tailwind</th>
+        <th>JavaScript</th>
+        <th>ReactJS</th>
+        <th>Firebase</th>
+        <th>Canva</th>
+      </tr>
+      <tr align="center">
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML Sibi Siddharth S" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS Sibi Siddharth S" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap Sibi Siddharth S" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind Sibi Siddharth S" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript Sibi Siddharth S" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="ReactJS" alt="ReactJS Sibi Siddharth S" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase Sibi Siddharth S" height="55" width="55";/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva Sibi Siddharth S" height="55" width="55";/></td>
+      </tr>
+    </table>
+
+  - **💻Backend Brilliance:** Specializing in backend development with MongoDB, ExpressJS, NodeJS, and Firebase, I create scalable, efficient, and reliable backend systems.
+
+    <table style="width: 100%; table-layout: fixed;">
+      <tr align="center">
+        <th>MongoDB</th>
+        <th>ExpressJS</th>
+        <th>NodeJS</th>
+        <th>Firebase</th>
+      </tr>
+      <tr align="center">
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="ExpressJS" alt="ExpressJS Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="NodeJS" alt="NodeJS Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" title="Firebase" alt="Firebase Sibi Siddharth S" width="55" height="55"/></td>
+      </tr>
+    </table>
+    
+  - **🪄Majestic Intelligence:** Transforming data into intelligence, I specialize in AI and Generative AI, crafting complex models that are captivating and inspiring.
+
+    <table style="width: 100%; table-layout: fixed;">
+      <tr align="center">
+        <th>Tensorflow</th>
+        <th>Keras</th>
+        <th>Numpy</th>
+        <th>Pandas</th>
+        <th>Matplotlib</th>
+        <th>MySQL</th>
+        <th>LLMs</th>
+      </tr>
+      <tr align="center">
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/keras/keras-original.svg" title="Keras" alt="Keras Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" title="Pandas" alt="Pandas Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" alt="Matplotlib Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://cdn-icons-png.flaticon.com/512/16806/16806660.png" title="LLMs" alt="LLMs Sibi Siddharth S" width="55" height="55"/></td>
+      </tr>
+    </table>
+
+    
+  - **🐍Python Prodigy:** Harnessing the power of Python, from witty chatbots to intricate image-based marvels.
+
+    <table style="width: 100%; table-layout: fixed;">
+      <tr align="center">
+        <th>Python</th>
+        <th>Flask</th>
+      </tr>
+      <tr align="center">
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python Sibi Siddharth S" width="55" height="55"/></td>
+        <td><img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flask Sibi Siddharth S" width="55" height="55"/></td>
+      </tr>
+    </table>
+
+## 😯 How Do I Contribute ?
+
+### iZet E-Payments - Software Developer (intern) (Feb 2025 - Present)
+- Building Ecommerce chatbot.
+- Contributing in Web Development Projects.
+
+### RaC CBE Royals - Club Service Director (June 2024 - Present)
+- Managing Club Service Projects.
+- Documentation of Club Service Projects and Records.
+
+### RaCKathirce - International Service Director & Social Media Management (Jan 2024 - June 2024)
+- Managing International Service Projects.
+- Maintaining timely updates of linkedin handle.
+- Designing Posters using Canva.
+- Documentation of the events, linkedin posts and event posters.
+
+### SquadofCreators - Full-Stack Developer (Sept 2021 - Present)
+- Actively engaged in Web, Python, and AI/ML projects.
+
+## 🤝 Collaboration
+
+💡Seeking partners for magical projects in AI, ML, DL, and web development? Let's craft something extraordinary together and unleash innovation's power in our digital quests!
+
+## How to Reach Me
+
+📫 Drop me a line at sibisiddharth8@gmail.com.
+
+🔮 Let's connect on [LinkedIn](https://www.linkedin.com/in/sibisiddharths/).
+
+🪄 Do Check [MyMind | Portfolio](https://sibisiddharth8.github.io/portfolio-react/).
+
+Let's spark innovation together! 🧙‍♂️✨
+
+---
+
+<table>
+  <tr>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=sibisiddharth8&show_icons=true&theme=github_dark" alt="sibisiddharth8-readme-stats" />
+    </td>
+    <td style="border: none;">
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=sibisiddharth8&theme=github-dark-blue&cache_bust=true" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
+
+---
+
+![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=sibisiddharth8&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false)
+
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
