@@ -89,22 +89,6 @@
       </tr>
     </table>
 ---
-
-<table>
-  <tr>
-    <td style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=AshiqurRahman8&show_icons=true&theme=github_dark" alt="AshiqurRahman8-readme-stats" />
-    </td>
-    <td style="border: none;">
-        <img src="https://github-readme-streak-stats.herokuapp.com?user=AshiqurRahman8&theme=github-dark-blue&cache_bust=true" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
----
-
-![My Contributions](https://github-readme-activity-graph.vercel.app/graph?username=AshiqurRahman8&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=false)
-
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
