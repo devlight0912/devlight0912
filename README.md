@@ -6,7 +6,7 @@
 
 ## 🫣 Who Am I ?
 
-🚀 Full-Stack & AI/ML Developer at Team SquadofCreators, fueled by passion for tech. With strong problem-solving skills and innovation drive, I seek new horizons to conquer through collaboration.
+🚀 Full-Stack & Web/Mobile Developer, fueled by passion for tech. With strong problem-solving skills and innovation drive, I seek new horizons to conquer through collaboration.
 
 ## 💼 Wanna Know My Professional Skills ? Let's Dive into it.
 
